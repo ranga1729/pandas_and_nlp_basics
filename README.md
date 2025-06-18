@@ -28,7 +28,7 @@ These files provide detailed insights, practical examples, and foundational conc
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/python-data-analysis-and-ml.git
+   https://github.com/ranga1729/pandas_and_nlp_basics.git
    ```
 2. Navigate to the folder containing the PDF files.
 
